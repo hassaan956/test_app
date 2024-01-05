@@ -3,6 +3,8 @@
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
+Hassaan Ahmed Siddiqui
+
 Things you may want to cover:
 
 * Ruby version
